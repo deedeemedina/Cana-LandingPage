@@ -13,7 +13,7 @@ body {
 }
 
 .hero-bg {
-    background: #307D99 url('../images/download.jpeg');
+    background: #307D99 url('../images/IMG_7909.jpg');
     background-size: cover;
     color: white;
     text-align: center;
@@ -52,7 +52,7 @@ h1 span::before {
     content: ' ';
     position: absolute;
     width: 3em;
-    background: #00BFFF;
+    background: rgb(103, 206, 103);
     height: .4em;
     bottom: 0;
     z-index: -1;
@@ -71,7 +71,7 @@ h1 span::before {
 }
 
 label {
-    color: #2D7D98;
+    color: rgb(103, 206, 103);
     font-weight: bold;
     display: block;
     margin-bottom: 1em;
@@ -129,7 +129,7 @@ h2::before {
     content: ' ';
     position: absolute;
     width: 8em;
-    background: #00BFFF;
+    background: rgb(103, 206, 103);
     height: .4em;
     bottom: 0;
     z-index: -1;
